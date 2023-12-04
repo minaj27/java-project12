@@ -1,0 +1,29 @@
+
+#main{
+    border: 5px solid blue;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    border-radius: 25px;
+}
+input{
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+}
+button{
+    margin: 20px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+label{
+    font-weight: bold;
+    display: inline-block;
+    width: 60px;
+    margin: 5px;
+}
